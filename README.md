@@ -1,4 +1,2 @@
 # hello-world
-Just another respository
-I love my job.
-I love my Job
+Tôi yêu lập trình
